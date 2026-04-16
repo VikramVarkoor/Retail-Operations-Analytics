@@ -1,0 +1,86 @@
+Customer_ID,Customer_Name,Segment,Order_Count,Total_Sales,Total_Profit,Avg_Discount,Profit_Margin_Pct
+CO-10747,Dave Martin,Corporate,7,60314.72,-13187.78,0.18,-21.86
+HO-10469,Wendy Smith,Home Office,4,147198.63,-13152.21,0.11,-8.94
+CO-10901,Sandra Taylor,Consumer,7,87501.19,-9722.29,0.14,-11.11
+CO-11230,Dan Robinson,Consumer,6,124151.4,-9226.29,0.05,-7.43
+HO-10640,Claire Perez,Home Office,7,103080.38,-7259.08,0.09,-7.04
+CO-10905,Claire Roberts,Consumer,7,106550.42,-6552.56,0.06,-6.15
+HO-10319,Jack Collins,Home Office,5,69004.89,-6190.08,0.1,-8.97
+CO-11544,Amy Baker,Consumer,5,86820.01,-6126.44,0.09,-7.06
+HO-10294,Sam Wilson,Home Office,4,36461.93,-6105.5,0.11,-16.74
+CO-10671,Diana Smith,Corporate,6,104663.25,-5680.69,0.1,-5.43
+CO-11752,Beth Green,Corporate,7,102515.93,-5056.61,0.07,-4.93
+HO-10375,Sam Baker,Home Office,4,33605.58,-4986.14,0.11,-14.84
+CO-11663,Ben Fisher,Consumer,4,61689.66,-4778.14,0.12,-7.75
+CO-10693,Greg Hall,Corporate,5,45512.36,-4605.1,0.15,-10.12
+CO-11180,Jason Wright,Consumer,8,63932.51,-4543.57,0.14,-7.11
+CO-10624,Jason Wright,Consumer,4,98513.18,-4472.92,0.08,-4.54
+CO-11477,Laura Thomas,Corporate,5,68789.66,-4246.99,0.08,-6.17
+CO-10029,Emily Robinson,Consumer,5,64741.69,-4218.56,0.14,-6.52
+CO-11905,Rob Young,Corporate,6,52687.63,-3889.43,0.13,-7.38
+CO-11567,Ted Scott,Corporate,5,38983.83,-3674.62,0.11,-9.43
+CO-10255,Tracy Jackson,Consumer,5,33721.85,-3274.14,0.13,-9.71
+CO-11232,Wendy Mitchell,Corporate,8,61618.23,-3153.03,0.14,-5.12
+CO-10507,Karen Martin,Consumer,6,48839.0,-3134.49,0.07,-6.42
+CO-10645,Lisa Smith,Consumer,6,128488.81,-2931.62,0.07,-2.28
+HO-11775,Anna Clark,Home Office,7,56512.29,-2912.9,0.09,-5.15
+CO-11421,Dan Roberts,Corporate,7,38973.41,-2906.61,0.12,-7.46
+CO-11947,Sarah Phillips,Consumer,6,21220.48,-2718.6,0.18,-12.81
+CO-10302,Ted Scott,Corporate,5,90225.33,-2704.7,0.12,-3.0
+CO-10616,Roger Lee,Consumer,5,14468.23,-2680.76,0.26,-18.53
+CO-10106,William Thompson,Consumer,7,63003.94,-2657.45,0.14,-4.22
+CO-10428,Dean Thomas,Corporate,5,28428.98,-2578.66,0.14,-9.07
+CO-10635,Jane Campbell,Corporate,5,38846.95,-2552.65,0.08,-6.57
+HO-11145,Roger Phillips,Home Office,6,24333.6,-2434.94,0.13,-10.01
+CO-10595,Pat Green,Corporate,4,17032.56,-2291.29,0.07,-13.45
+CO-11257,Pat Collins,Corporate,4,27056.86,-2205.07,0.1,-8.15
+CO-11540,Rick Hall,Corporate,4,30514.59,-2146.73,0.11,-7.04
+CO-10287,Sam Collins,Corporate,6,45364.82,-2078.7,0.05,-4.58
+CO-10524,Craig Moore,Consumer,6,68520.92,-2061.36,0.05,-3.01
+CO-11645,Bill Harris,Corporate,5,15597.4,-1836.04,0.11,-11.77
+CO-10580,Nick Mitchell,Corporate,4,23759.4,-1807.54,0.09,-7.61
+CO-11877,Steve Nelson,Consumer,9,100822.91,-1797.86,0.11,-1.78
+CO-10516,Andrew Baker,Corporate,8,50588.56,-1698.53,0.1,-3.36
+CO-11517,Emily Fisher,Corporate,6,54142.78,-1649.7,0.1,-3.05
+CO-11056,Craig Lewis,Consumer,8,98013.65,-1643.66,0.14,-1.68
+CO-10887,Amy King,Corporate,6,35751.16,-1613.81,0.08,-4.51
+CO-10052,Matt Anderson,Consumer,4,17349.75,-1571.75,0.05,-9.06
+CO-10371,Paul Davis,Corporate,4,34826.59,-1501.21,0.16,-4.31
+HO-11247,Karen Perez,Home Office,4,19916.99,-1086.91,0.06,-5.46
+HO-10814,Amy Martin,Home Office,4,31971.01,-1070.79,0.1,-3.35
+HO-10294,Grace Martin,Home Office,9,71841.67,-1055.76,0.12,-1.47
+HO-11687,Tony Davis,Home Office,7,27866.04,-1053.25,0.13,-3.78
+CO-10520,Sandra Lewis,Consumer,7,36793.04,-1029.12,0.11,-2.8
+CO-11814,Emily Carter,Consumer,4,11166.16,-926.71,0.13,-8.3
+CO-11406,Tom Harris,Consumer,6,69040.81,-874.71,0.07,-1.27
+CO-11489,Amy Lee,Corporate,4,41416.51,-834.79,0.07,-2.02
+HO-10274,Sarah Turner,Home Office,5,67796.82,-826.76,0.15,-1.22
+HO-10857,Paul King,Home Office,5,34187.53,-791.32,0.16,-2.31
+CO-10607,Lisa Walker,Consumer,8,64399.42,-782.06,0.07,-1.21
+CO-11327,Beth Smith,Consumer,5,41669.98,-750.13,0.05,-1.8
+HO-11400,Eric Lewis,Home Office,4,27692.79,-744.01,0.11,-2.69
+CO-11726,Laura Harris,Corporate,5,14291.22,-735.07,0.16,-5.14
+CO-10781,Tom Nelson,Consumer,7,33132.09,-722.4,0.11,-2.18
+HO-11454,Jim Garcia,Home Office,7,70839.08,-691.14,0.1,-0.98
+CO-11796,Roger Parker,Corporate,4,12162.07,-612.0,0.01,-5.03
+CO-10630,Frank Hill,Corporate,4,20437.82,-608.79,0.11,-2.98
+CO-10460,John Robinson,Consumer,6,40681.76,-574.73,0.12,-1.41
+CO-10082,Craig Williams,Consumer,8,129773.01,-548.35,0.07,-0.42
+HO-11541,Tom Mitchell,Home Office,6,98876.84,-524.26,0.11,-0.53
+CO-11227,Sean Scott,Consumer,6,15567.03,-479.58,0.1,-3.08
+CO-11820,Linda Jackson,Consumer,4,7756.88,-423.21,0.17,-5.46
+HO-11019,Wendy Lee,Home Office,5,34650.59,-403.36,0.09,-1.16
+CO-10628,Sarah Jones,Corporate,4,9598.41,-338.24,0.13,-3.52
+HO-11087,Aaron King,Home Office,7,61187.83,-310.3,0.08,-0.51
+CO-10449,Rick Perez,Consumer,8,26279.45,-281.51,0.07,-1.07
+CO-10687,Jennifer Anderson,Corporate,5,52357.41,-194.26,0.08,-0.37
+CO-11695,Ken Walker,Consumer,4,28132.21,-186.98,0.06,-0.66
+CO-10656,Mike Williams,Consumer,4,12053.67,-154.54,0.09,-1.28
+CO-11608,Nancy Wilson,Consumer,4,39086.95,-97.29,0.11,-0.25
+CO-11502,Sue Martin,Corporate,5,32480.58,-57.14,0.07,-0.18
+CO-10343,Nick King,Corporate,5,89453.23,-49.28,0.04,-0.06
+CO-10552,Jennifer Evans,Consumer,10,81498.15,-24.29,0.12,-0.03
+CO-11738,Ted Mitchell,Consumer,5,16363.81,-17.25,0.08,-0.11
+HO-11613,William Thompson,Home Office,5,34828.44,-13.46,0.16,-0.04
+CO-10770,Carol Thompson,Consumer,5,9317.83,-12.52,0.08,-0.13
+CO-11405,Mark Taylor,Corporate,9,64321.36,-6.68,0.11,-0.01
