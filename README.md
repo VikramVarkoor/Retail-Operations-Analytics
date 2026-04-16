@@ -9,6 +9,8 @@ End-to-end retail analytics project: Python data pipeline, SQL analysis, and Tab
 - **SQL** — 4 interview-ready analytical queries (GROUP BY, window functions, CTEs, HAVING)
 - **Tableau Public** — interactive dashboard (map, time series, category breakdown)
 
+![Retail Analytics Dashboard Preview](dashboard.png)
+
 ## Project Structure
 
 ```
